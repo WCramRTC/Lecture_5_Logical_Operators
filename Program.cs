@@ -10,8 +10,36 @@ namespace Lecture_5_Logical_Operators
     {
         static void Main(string[] args)
         {
+            // Nested Ifs
+            
+            // Logical Operators
 
+            // Constants
 
-        }
-    }
-}
+            // Ternarys
+
+        } // Main
+
+        public static void NestedIfs()
+        {
+
+        } // NestedIfs
+
+        public static void LogicalOperators()
+        {
+
+        } // LogicalOperators
+
+        public static void Constants()
+        {
+
+        } // Constants
+
+        public static void Ternaries()
+        {
+
+        } // Ternaries
+
+    } // class
+     
+} // namespace
